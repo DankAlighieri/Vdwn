@@ -1,7 +1,8 @@
 # Vdwn
+
 Simple bash script to download youtube and instagram videos
 
-This script was written as a challenge to test bash knowledge.
+That's my first time writing any script ever, so i wrote it as a challenge to test bash knowledge.
 
 # Requirements
 
