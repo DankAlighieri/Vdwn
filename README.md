@@ -4,6 +4,8 @@ Simple bash script to download youtube and instagram videos
 
 That's my first time writing any script ever, so i wrote it as a challenge to test bash knowledge.
 
+As of now it won't run with gitbash, only Powershell and WSL distros. 
+
 # Requirements
 
 - Any shell able to read .sh files
